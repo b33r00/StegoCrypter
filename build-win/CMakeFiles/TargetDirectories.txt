@@ -1,8 +1,0 @@
-/home/b3r0/Dokumentumok/claude-project1/carrier-engine/build-win/CMakeFiles/fud_crypter_core.dir
-/home/b3r0/Dokumentumok/claude-project1/carrier-engine/build-win/CMakeFiles/fud-crypter.dir
-/home/b3r0/Dokumentumok/claude-project1/carrier-engine/build-win/CMakeFiles/edit_cache.dir
-/home/b3r0/Dokumentumok/claude-project1/carrier-engine/build-win/CMakeFiles/rebuild_cache.dir
-/home/b3r0/Dokumentumok/claude-project1/carrier-engine/build-win/CMakeFiles/list_install_components.dir
-/home/b3r0/Dokumentumok/claude-project1/carrier-engine/build-win/CMakeFiles/install.dir
-/home/b3r0/Dokumentumok/claude-project1/carrier-engine/build-win/CMakeFiles/install/local.dir
-/home/b3r0/Dokumentumok/claude-project1/carrier-engine/build-win/CMakeFiles/install/strip.dir
