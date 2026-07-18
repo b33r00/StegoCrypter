@@ -280,15 +280,11 @@ carrier-engine/
 
 ## License
 
-This project is released under the **Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)** license.
-
-You are free to share (copy and redistribute) the material in any medium or format, provided you give appropriate credit. You may not remix, transform, or build upon the material.
-
-See the `LICENSE` file for full details.
+NO LICENSE
 
 ---
 
 ## Author
 
-**b33r00**  
+**B3r0**  
 GitHub: [@b33r00](https://github.com/b33r00)
